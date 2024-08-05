@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>WelCome To My Regirstion Page!</h1>
+    
+    <form action="{% url 'Logs:Home' %}" method="post">
+        {% csrf_token %}
+        <label for="">first_name
+            <input type="text" name="first_name" id="first_name">
+        </label>
+
+        <label for="">last_name
+            <input type="text" name="last_name" id="last_name">
+        </label>
+
+        <label for="">mobile_number
+            <input type="text" name="mobile_number" id="mobile_number">
+        </label>
+
+        <label for="">Pan_Card
+            <input type="text" name="pan_card" id="pan_card">
+        </label>
+
+        <button type="submit">submit</button>
+    </form>
+
+</body>
+</html>

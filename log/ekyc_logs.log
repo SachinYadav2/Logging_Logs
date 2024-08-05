@@ -1,0 +1,517 @@
+[2024-08-04 22:24:10,505: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:24:10,558: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:24:17,169: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:24:17,229: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:24:17,330: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:24:17,379: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:31:23,297: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:31:29,317: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:32:04,755: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:32:13,082: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:34:06,209: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:34:09,010: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:34:11,898: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:35:33,851: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:37:39,705: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:37:44,107: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:37:52,114: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:38:21,021: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:38:27,113: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:38:34,030: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:38:37,199: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\models.py changed, reloading.
+[2024-08-04 22:42:18,995: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:42:19,054: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:42:19,499: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:42:19,543: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:42:19,659: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:42:19,699: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:42:32,166: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:42:34,983: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:42:39,016: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:42:44,158: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:42:49,129: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:42:53,613: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:42:53,701: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:42:54,262: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:42:54,303: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:42:54,425: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:42:54,494: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:22,209: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:22,278: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:22,602: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:22,650: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:22,923: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:22,964: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:23,079: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:23,118: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:23,248: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:23,294: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:24,070: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:24,112: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:24,235: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:24,281: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:24,406: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:24,510: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:47,206: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:48,316: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:48,496: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:56,736: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:56,785: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:57,099: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:57,147: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:43:57,261: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:43:57,346: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:45:49,059: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:45:49,107: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:45:49,736: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:45:49,782: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:45:49,902: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:45:49,950: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:45:50,028: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:45:50,082: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:46:14,264: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:46:14,323: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:47:15,937: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\urls.py changed, reloading.
+[2024-08-04 22:47:24,533: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:47:24,616: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:47:24,730: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:47:24,785: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:47:24,860: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:47:24,922: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:47:25,036: INFO: views]: Your Function is call now sir !
+[2024-08-04 22:47:25,094: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:47:46,588: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:48:18,793: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:48:27,238: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:48:29,190: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view Logs.views.Home didn't return an HttpResponse object. It returned None instead.
+[2024-08-04 22:48:29,429: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:48:44,126: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:48:50,258: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:48:53,262: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:48:59,306: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:49:02,350: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:49:13,845: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:49:21,052: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:49:22,918: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:49:22,993: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:49:23,872: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:49:23,929: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:49:24,040: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:49:24,080: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:12,033: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:12,108: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:12,782: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:12,830: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:12,957: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:13,002: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:54,485: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:54,544: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:54,791: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:54,842: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:54,940: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:54,990: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:50:55,094: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:50:55,147: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:51:08,032: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:51:08,091: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:51:08,254: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:51:08,307: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:51:08,389: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:51:08,450: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:51:12,886: WARNING: log]: Forbidden (CSRF token missing.): /home/
+[2024-08-04 22:51:32,017: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:52:10,131: WARNING: log]: Forbidden (CSRF token missing.): /home/
+[2024-08-04 22:52:10,194: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:12,095: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:52:12,161: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:12,282: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:52:12,343: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:12,423: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:52:12,478: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:12,597: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:52:12,641: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:17,447: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:52:17,498: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:17,600: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:52:17,658: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:52:19,118: WARNING: log]: Forbidden (CSRF token missing.): /home/
+[2024-08-04 22:53:36,124: WARNING: log]: Forbidden (CSRF token missing.): /home/
+[2024-08-04 22:53:36,190: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:53:37,950: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:53:38,017: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:53:38,138: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:53:38,183: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:53:38,282: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:53:38,334: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:53:43,888: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:53:43,949: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:53:44,054: INFO: views]: without post method call your page will we like this 
+[2024-08-04 22:53:44,117: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:53:45,673: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 22:53:46,619: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 22:53:47,243: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 22:53:47,499: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 22:53:50,518: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 22:54:32,721: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:54:35,634: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:54:46,061: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:54:56,699: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:54:59,731: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:55:07,491: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:55:10,479: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:55:16,584: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:55:20,716: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:55:26,979: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 16, in Home
+    first_name = request.method["POST"]['first_name']
+TypeError: string indices must be integers
+[2024-08-04 22:55:27,098: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:55:51,502: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 22:55:57,375: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 16, in Home
+    first_name = request.method['first_name']
+TypeError: string indices must be integers
+[2024-08-04 22:55:57,507: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 22:56:00,316: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 16, in Home
+    first_name = request.method['first_name']
+TypeError: string indices must be integers
+[2024-08-04 22:56:00,423: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:01:46,678: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:01,824: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:02:02,086: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:02:06,185: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:02:11,719: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:26,321: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:30,031: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:37,119: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:46,873: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:53,864: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:02:59,810: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:03:02,654: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:03:13,394: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:03:17,333: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:03:20,275: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:03:35,566: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:03:39,836: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:04:10,641: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:14:46,198: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:14:46,413: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 24, in Home
+    if Register.objects.filter(pan_card).exists():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1424, in build_filter
+    arg, value = filter_expr
+ValueError: not enough values to unpack (expected 2, got 0)
+[2024-08-04 23:14:46,532: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:15:40,320: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:15:40,367: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 24, in Home
+    if Register.objects.filter(pan_card).exists():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1424, in build_filter
+    arg, value = filter_expr
+ValueError: not enough values to unpack (expected 2, got 0)
+[2024-08-04 23:15:40,495: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:15:51,126: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:15:51,174: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 24, in Home
+    if Register.objects.filter(pan_card).exists():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1424, in build_filter
+    arg, value = filter_expr
+ValueError: not enough values to unpack (expected 2, got 0)
+[2024-08-04 23:15:51,304: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:16:03,999: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:16:04,045: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 24, in Home
+    if Register.objects.filter(pan_card).exists():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1424, in build_filter
+    arg, value = filter_expr
+ValueError: not enough values to unpack (expected 2, got 0)
+[2024-08-04 23:16:04,168: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:16:48,395: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:16:48,465: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 24, in Home
+    if Register.objects.filter(pan_card).exists():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1424, in build_filter
+    arg, value = filter_expr
+ValueError: too many values to unpack (expected 2)
+[2024-08-04 23:28:18,323: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:28:22,525: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:28:25,614: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:28:31,782: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:28:36,759: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:28:44,838: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:28:44,838: INFO: views]: Your All data is get !
+[2024-08-04 23:28:44,941: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 25, in Home
+    if Register.objects.filter(pan_card).exists():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 1424, in build_filter
+    arg, value = filter_expr
+ValueError: not enough values to unpack (expected 2, got 0)
+[2024-08-04 23:28:45,059: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:30:28,840: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:30:31,787: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:30:40,692: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:30:40,692: INFO: views]: Your All data is get !
+[2024-08-04 23:30:40,897: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Logs_register.mobile_number
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 32, in Home
+    curr_data.save()
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Logs_register.mobile_number
+[2024-08-04 23:30:41,053: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:31:21,671: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:31:38,165: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:31:38,165: INFO: views]: Your All data is get !
+[2024-08-04 23:31:38,337: ERROR: log]: Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py", line 32, in Home
+    curr_data.save()
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1821, in execute_sql
+    for sql, params in self.as_sql():
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1745, in as_sql
+    value_rows = [
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1746, in <listcomp>
+    [
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1747, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1686, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\fields\__init__.py", line 954, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\fields\__init__.py", line 2060, in get_db_prep_value
+    value = super().get_db_prep_value(value, connection, prepared)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "C:\Users\Sachin2\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'mobile_number' expected a number but got ''.
+[2024-08-04 23:31:38,673: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:31:45,208: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:31:57,533: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:31:57,533: INFO: views]: Your All data is get !
+[2024-08-04 23:31:57,548: INFO: views]: Your Info save in this Tabkle Refistationsdsdsdfdfdf
+[2024-08-04 23:32:00,140: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:32:00,140: INFO: views]: Your All data is get !
+[2024-08-04 23:32:00,143: INFO: views]: This User Already present please show the login page
+[2024-08-04 23:32:00,201: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:03,073: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:08,918: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:08,979: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:10,323: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:10,372: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:10,598: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:10,642: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:10,719: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:10,760: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:10,951: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:10,992: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:11,099: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:11,153: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:11,264: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:11,325: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:11,432: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:11,486: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:11,861: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:11,902: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:32:12,065: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:32:12,107: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:38:44,464: INFO: views]: without post method call your page will we like this 
+[2024-08-04 23:38:44,520: WARNING: log]: Not Found: /favicon.ico
+[2024-08-04 23:39:07,043: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:39:07,043: INFO: views]: Your All data is get !
+[2024-08-04 23:39:07,055: INFO: views]: Your Info save in this Tabkle RefistationsachinRMW21
+[2024-08-04 23:39:27,504: INFO: autoreload]: C:\Users\Sachin2\Desktop\TEST\TEST\Testing_Djago_Apps\Logs\views.py changed, reloading.
+[2024-08-04 23:39:46,558: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-04 23:39:46,559: INFO: views]: Your All data is get !
+[2024-08-04 23:39:46,564: INFO: views]: Your Info save in this Tabkle Refistation   :sachinJWR21
+[2024-08-05 09:45:50,984: INFO: views]: Your request is post is succesfull lanuch 
+[2024-08-05 09:45:50,984: INFO: views]: Your All data is get !
+[2024-08-05 09:45:50,995: INFO: views]: Your Info save in this Tabkle Refistation   :rahulJWWPK21
